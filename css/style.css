@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+.letras{
+    display: flex;
+    margin-right: 10px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    background-color: rgb(156, 153, 153);
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 20px;
+}
+p{
+    margin: 15px;
+    margin-right: 20px;
+    color: rgb(156, 153, 153);
+    font-size: 30px;
+}
+
+.logo{
+    display: flex;
+}
+.contenido1{
+    background-color: rgb(156, 153, 153);
+    height: 400px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.contenido2{
+    color: rgb(156, 153, 153);
+    padding: 10px;
+    width: 255px;
+}
+
+.titulo{
+    font-size: 45px;
+}
+.cuadro{
+    display: flex;
+    justify-content: center;
+}
+.boton{
+    width: 100px;
+    height: 120px;
+    background-color: rgb(156, 153, 153);
+    margin-right: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.con2{
+    display: flex;
+}
+.galleta{
+}
